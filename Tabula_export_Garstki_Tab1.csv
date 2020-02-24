@@ -1,0 +1,55 @@
+Site Name,Type of Site,Date,Smelting,Smithing
+,,,(No. of furnaces),(No. of hearths)
+"Clonrud 4, Co. Laois (E2167)",Isolated Metalworking,LBA/EIA,X (2),
+"Grange, Co. Dublin (13E0435)",Isolated Metalworking,EIA,X (1),
+"Kinnegad 2, Co. Westmeath (02E0926)",Isolated Metalworking,EIA,X (2),X (1)
+"Lagavooren 7, Co. Meath (00E0914)",Structure,EIA,X (2),
+"Parksgrove 1, Co. Kilkenny (99E0597)",Isolated Metalworking,EIA,,X (1)
+"Rossan 6, Co. Meath (02E1068)",Isolated Metalworking,EIA,X (1),X (2)
+"Site 27, Rath, Co. Meath (03E1214)",Structure/Burial,EIA,X (1),X (1)
+"Site B, Ballydavis, Co. Laois (03E0966)",Isolated Metalworking,EIA,X (2),
+"Site L, Lughil, Co. Kildare (03E0602)",Isolated Metalworking,EIA,X (5),
+"Cherryville Site 12,",Isolated Metalworking,EIA/DIA,X (4),X (slag)
+Co. Kildare (01E0955),,,,
+"DKIT, Co. Louth (02E0201)",Isolated Metalworking,EIA/DIA,X (1),
+"Morett, Co. Laois (03E0461)",Burial,EIA/DIA,X (4),
+"Site AR 26, Ballydavid,",Enclosure,EIA/DIA,X (6),
+Co. Tipperary (E2370),,,,
+"Derrinsallagh 5, Co. Laois (E2181)",Isolated Metalworking,EIA/DIA/LIA,X (1),
+"Hardwood 3, Co. Meath (02E1141)",Isolated Metalworking,EIA/Medieval,X (4),X (3)
+"Carrickmines Great,",Structure,DIA,X (1),
+Co. Dublin (02E0272),,,,
+"Chapelbride 1, Co.",Isolated Metalworking,DIA,,X (1)
+Meath (E3172),,,,
+"Cloncollog 2, Co. Offaly (E2850)",Isolated Metalworking,DIA,X (1),
+"Gormagh 1, Co. Offaly (11E87)",Isolated Metalworking,DIA,,X (1)
+"Johnstown 3, Co. Meath (02E1094)",Isolated Metalworking,DIA,X (2),
+"Kilrussane AR 27, Co.",Isolated Metalworking,DIA,X (4),
+Cork (01E0701),,,,
+"Knockcommane 4700.1b,",Structure,DIA,X (1),
+Co. Cork (E2342),,,,
+"Leap 1, Co. Laois (E2131)",Isolated Metalworking,DIA,X (1),
+"Monganstown 1, Co.",Isolated Metalworking,DIA,X (6),X (slag)
+Westmeath (E2771),,,,
+"Moyally 2, Co. Offaly (E2672)",Isolated Metalworking,DIA,X (2),X (1)
+"Moyvalley 1, Co.",Isolated Metalworking,DIA,,X (1)
+Kildare (02E1088),,,,
+"Mullagh, Co. Longford (09E0311)",Isolated Metalworking,DIA,X (1),
+"Newrath Site 35, Co.",Isolated Metalworking,DIA,X (6),
+Kilkenny (04E0319),,,,
+"Ráith na Ríg, Tara, Co.",Other,DIA,,X (1)
+Meath (97E300),,,,
+"Trantstown AR 29, Co.",Isolated Metalworking,DIA,X (2),
+Cork (01E0501 AR29),,,,
+"Ballinvinny North AR26,",Isolated Metalworking,DIA/LIA,X (1),
+Co. Cork (01E0501 AR26),,,,
+"Derrinsallagh 4, Co.",Structure,DIA/LIA,X (44),
+Laois (E2180),,,,
+"Derryvorrigan 1, Co.",Structure,DIA/LIA,X (8),
+Laois (E2193),,,,
+"Harlockstown 19, Co.",Structure/Burial,DIA/LIA,X (1),X (slag)
+Meath (03E1526),,,,
+"Lisnagar Demesne 1,",Isolated Metalworking,DIA/LIA,X (1),X (slag)
+Co. Cork (03E1510),,,,
+"Ballydavis, Co. Laois (95E111)",Burial,IA,X (8),
+Knockaulin,Ritual,IA,,X (slag)
